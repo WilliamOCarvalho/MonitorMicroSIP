@@ -112,8 +112,8 @@ Melhorado
 
 Adicionado
 
-✅ Controle baseado em eventos: Implementado gerenciamento 100% baseado em eventos do Windows, eliminando verificações periódicas de processos e utilizando a API Wtsapi32 para iniciar e encerrar o MicroSIP de forma mais eficiente.
-✅ Caminho fixo para o MicroSIP: O programa agora usa um caminho predefinido (%USERPROFILE%\AppData\Local\MicroSIP\microsip.exe) para gerenciar o MicroSIP, eliminando a necessidade de seleção manual.
+✅ Controle baseado em eventos: Implementado gerenciamento 100% baseado em eventos do Windows, eliminando verificações periódicas de processos e utilizando a API Wtsapi32 para iniciar e encerrar o MicroSIP de forma mais eficiente. 
+✅ Caminho fixo para o MicroSIP: O programa agora usa um caminho predefinido (%USERPROFILE%\AppData\Local\MicroSIP\microsip.exe) para gerenciar o MicroSIP, eliminando a necessidade de seleção manual. 
 ✅ Criação de diretório de logs: Adicionada criação automática do diretório C:\MicroSIPService para armazenamento de logs.
 ---
 
